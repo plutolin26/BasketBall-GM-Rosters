@@ -8410,10 +8410,10 @@
 "ratings":[{"hgt":64,"stre":38,"spd":54,"jmp":58,"endu":42,"ins":54,"dnk":45,"ft":52,"fg":44,"tp":45,"blk":56,"stl":66,"drb":34,"pss":44,"reb":54,"pot":50}],"skills":[]},
 
 {"tid":-2,
-"name":"Zhou Qi","pos":"C","hgt":86,"weight":210,
+"name":"Zhou Qi","pos":"C","hgt":85,"weight":210,
 "imgURL":"http://www.fiba.com/images/web/Events/12/U17WCM/headshots/CHN/_215/QiZHOU_China_.jpg",
 "born":{"year":1996,"loc":"Henan, China"},"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":"2016","loc":""},
-"ratings":[{"hgt":94,"stre":67,"spd":45,"jmp":34,"endu":53,"ins":67,"dnk":64,"ft":65,"fg":42,"tp":0,"blk":76,"stl":45,"drb":33,"pss":23,"reb":56,"pot":50}],"skills":[]},
+"ratings":[{"hgt":94,"stre":40,"spd":45,"jmp":34,"endu":53,"ins":67,"dnk":64,"ft":65,"fg":42,"tp":0,"blk":76,"stl":45,"drb":33,"pss":23,"reb":56,"pot":50}],"skills":[]},
 
 {"tid":-4,
 "name":"Chinanu Onuaku","pos":"C","hgt":82,"weight":230,
